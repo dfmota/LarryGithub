@@ -6,3 +6,4 @@
 * Larry Potter y el malware de fuego
 * Larry Plotter y la orden de Unix
 * Latry Plotter y el misterio del hacker
+* Larry Plotter u los commits d ela muerte
