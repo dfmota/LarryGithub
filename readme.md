@@ -2,4 +2,4 @@
 
 Esto es un prueba de readme.md
 
-**David Fernandez**
+**David Fernandez** Git lover
